@@ -1,1 +1,2 @@
 Hi This is is file for sample folder
+Hi This is second line
